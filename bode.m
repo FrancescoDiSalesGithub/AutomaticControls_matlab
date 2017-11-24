@@ -4,4 +4,4 @@ numeratore=s;
 denominatore=s+1;
 
 function_bode=numeratore/denominatore;
-bode(function)
+bode(function_bode)
